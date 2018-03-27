@@ -1,0 +1,2 @@
+# Analyzing-CIA-Factbook-Data-Using-SQLite-and-Python
+This project aims to observe patterns in population growth, death rate and birthrate across various countries in the world. The data was gotten from CIA factbook. The data was filtered to remove populations erroneous population value as well as Nan values and then plotted using df.hist() method. Feel free to improve on existing results to provide better insights and conclusion
